@@ -1,0 +1,6 @@
+{
+  "name": "NeuralStock LSTM - Machine Learning Market Analytics & Price Prediction",
+  "description": "Enterprise-grade financial analytics platform utilizing Long Short-Term Memory (LSTM) recurrent neural networks for stock market price prediction, technical indicator analysis, automated price alerts, and personalized portfolio tracking.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
